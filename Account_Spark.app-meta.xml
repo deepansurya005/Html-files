@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>logo1</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Better Intel For Better Sales</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Account Spark</label>
+    <navType>Standard</navType>
+    <tabs>Admin_Settings</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>Account_Spark_Matrix_Overview</tabs>
+    <tabs>Account_Spark_Analysis</tabs>
+    <tabs>Account_Spark_Summary</tabs>
+    <tabs>Cohort__c</tabs>
+    <tabs>Cohort_Metric__c</tabs>
+    <tabs>Cohort_Statistics__c</tabs>
+    <tabs>Product_Summary__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Account_Spark_UtilityBar</utilityBar>
+</CustomApplication>
